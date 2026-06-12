@@ -1,0 +1,44 @@
+Source: GSU student blogs, orientation wikis, and student government resource guides
+Collected from: GSU student-run website and subreddit resource threads
+
+---
+
+FINANCIAL RESOURCES
+
+HOPE Scholarship (Georgia students): If you graduated from a Georgia high school and maintain a 3.0 GPA, HOPE pays a portion of your tuition. It recalculates every 30 credit hours. If you drop below 3.0, you lose it. If you bring it back up above 3.0 at the next checkpoint, it can be reinstated. Many students don't know it can be reinstated — check with Financial Aid.
+
+Emergency Financial Assistance Fund: GSU has a small emergency fund for students facing unexpected hardship (medical bills, loss of housing, family emergency). It's not publicized heavily but it exists. Go to the Dean of Students office (Suite 245, One Park Place) and explain your situation. Grants up to $500 are available; it's not a loan. Very few students know this exists.
+
+Panther Pantry: Free food pantry for GSU students experiencing food insecurity. Located in the Student Center. No income verification — any enrolled student can use it. Open during regular business hours. Also has hygiene products.
+
+Textbook alternatives: The Amerson Library has textbook reserves — many required textbooks for popular courses are available to check out for 2-3 hours. Also, the Georgia Library Learning Online (GALILEO) system gives you access to many textbooks as ebooks through your student ID login.
+
+---
+
+TECH RESOURCES
+
+Free software through GSU: Enrolled students can download Microsoft Office 365, Adobe Creative Cloud, MATLAB, and several other professional tools for free. Log in at software.gsu.edu with your student credentials. This is a huge benefit most students don't use.
+
+Computer labs: The CS computer lab in Classroom South has Linux workstations that are required for certain CS assignments (especially OS and Systems courses). Hours are posted on the CS department website. During finals, labs are open extended hours.
+
+Virtual Private Network (VPN): GSU provides a free VPN for students to access campus resources remotely. Install it before you need to connect to library databases or course servers from off-campus.
+
+OneDrive storage: As a student with Office 365, you get 1TB of free OneDrive cloud storage. Much more useful than Google Drive for most workflows, and it syncs with your student email.
+
+---
+
+HEALTH AND WELLNESS
+
+Student Recreation Center (Sports Arena): Free gym access is included in your student fees. Includes cardio equipment, weight room, basketball courts, indoor track, and a pool. Most underrated resource at GSU. Massively less crowded than commercial gyms at comparable quality. Hours: 6am-10pm weekdays, 10am-8pm weekends.
+
+Campus mental health: The Counseling and Testing Center offers free individual therapy, group therapy sessions, and crisis support. Call (404) 413-1640. For after-hours crisis support, the GSU campus police can connect you with on-call counselors. Time Teller app (provided by GSU) has 24/7 mental health support chat.
+
+Bicycle lending program: GSU has a bike lending program — you can borrow a bike for the day from the Transportation and Parking office. Good for commuting between MARTA and campus without walking.
+
+---
+
+ACADEMIC INTEGRITY POLICIES
+
+Know GSU's policy: Academic dishonesty at GSU is handled through the Center for Student Integrity. First offense for plagiarism or cheating typically results in a grade penalty determined by the professor, plus a record in your student file. Second offense can result in suspension or expulsion. The policy covers AI-generated work submitted as your own in courses that prohibit it.
+
+Grade disputes: If you believe your final grade was assigned in error, you have 30 days from the last day of final exams to file a Grade Appeal. Go to the Registrar's office first, then the department if unresolved.

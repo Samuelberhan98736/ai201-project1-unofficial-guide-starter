@@ -1,0 +1,75 @@
+Source: GSU CS Department student-compiled course planning guide (shared on Discord and subreddit)
+Collected from: GSU CS student Discord pinned resources
+
+---
+
+CS MAJOR REQUIRED COURSE SEQUENCE (as of 2024 catalog)
+
+Core Math Requirements (must complete before upper-division CS):
+- MATH 2211: Calculus I — needed before most 3000+ CS courses
+- MATH 2212: Calculus II
+- MATH 2420: Discrete Mathematics (CS 3300) — critical for algorithms and theory
+- MATH 2215: Statistics or CS 3315 — varies by concentration
+
+Core CS Sequence:
+1. CS 1301: Introduction to Computing (Python)
+2. CS 1302: Software Development (Java)
+3. CS 2340: Data Structures (Java)
+4. CS 3410: Operating Systems (C)
+5. CS 3300: Discrete Math for Computing
+6. CS 4320: Algorithms — hardest required course in many students' opinion
+7. CS 4850: Senior Seminar (capstone)
+
+---
+
+STUDENT REVIEWS OF REQUIRED COURSES
+
+CS 1301/1302 — Introduction/Software Development:
+These are the weed-out courses in name but not in difficulty. Most students do fine. Where people fail: not keeping up with programming assignments. The assignments build on each other. Missing two in a row puts you in a hole that's very hard to escape.
+
+CS 2340 — Data Structures:
+Where the real weeding-out happens. First time most students have to think algorithmically rather than just procedurally. Big-O notation, recursion, and linked structures are the hardest parts. Students who struggle here almost always have weak recursion skills — drill recursion problems before this class.
+
+CS 3410 — Operating Systems:
+The hardest required course for most students. C programming is unforgiving. Memory management errors don't crash the program immediately, they crash it later in mysterious ways. Debugging skills become critical here. Budget 15-20 hours/week during project phases. The payoff: you'll understand every CS concept better after this class. Students consistently say it was the most educational course in the major.
+
+CS 3300 — Discrete Math:
+Often taken alongside CS 2340. Heavy on proofs, logic, set theory, and graph theory. The material directly feeds into CS 4320 (Algorithms). Students who take it seriously here have a much easier time in Algorithms. The professor matters a lot for this course — check RMP before registering.
+
+CS 4320 — Algorithms:
+The capstone theory course. Covers dynamic programming, greedy algorithms, graph algorithms, and computational complexity (NP-completeness). Exams involve writing algorithm pseudocode and proving correctness/complexity. If you hate theory, this class will be miserable. If you like puzzles, you'll love it. Average GPA in this course is one of the lowest in the CS department.
+
+---
+
+CONCENTRATION TRACKS
+
+Intelligent Systems (AI/ML focus):
+Recommended electives: CS 4720 (Machine Learning), CS 4400 (Intro to AI), CS 4421 (Natural Language Processing), CS 4723 (Deep Learning if offered).
+Career outcomes: ML engineering roles, data science, research positions.
+Prerequisite warning: Linear Algebra (MATH 2400) is not required by the catalog but is practically essential for the ML courses. Take it as an elective.
+
+Systems and Architecture:
+Recommended electives: CS 4510 (Computer Networks), CS 4520 (Distributed Systems), CS 4490 (Advanced OS), CS 4330 (Compilers).
+Career outcomes: Systems engineering, cloud infrastructure, embedded systems.
+Hardest track academically. Most of the coursework involves C/C++ programming.
+
+Software Systems:
+Recommended electives: CS 4540 (Software Engineering), CS 4550 (Database Systems), CS 4560 (Web Development, if offered), CS 4800 (Mobile Development).
+Career outcomes: Full-stack development, web engineering, SaaS companies.
+Most directly applicable to industry jobs. Easiest track to get a first internship from.
+
+---
+
+COURSE REGISTRATION STRATEGY
+
+High-demand courses that fill fast:
+- CS 4720 (Machine Learning): Fills within 1 hour of registration opening. Register first thing.
+- CS 3410 (OS): Multiple sections but all fill within the first day.
+- CS 4320 (Algorithms): Limited sections, very competitive.
+
+Backup strategy: If your preferred section fills, email the professor directly asking to be added to an override list. Some professors maintain these. Always ask — worst they say is no.
+
+Tips for avoiding scheduling disasters:
+- Don't schedule CS 3410 and CS 4320 in the same semester unless you enjoy suffering.
+- CS 2340 and MATH 2420 in the same semester is common and manageable.
+- CS 4850 (Senior Seminar) requires a project partner — coordinate with a friend before registering.

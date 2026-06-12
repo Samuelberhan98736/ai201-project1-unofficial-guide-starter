@@ -1,0 +1,35 @@
+Source: Rate My Professors — CS 2340 (Data Structures) at Georgia State University
+Collected from: ratemyprofessors.com
+
+---
+
+Professor: Dr. Raj Sunderraman
+Course: CS 2340 — Data Structures
+Rating: 4.0 / 5
+
+Review 1:
+Dr. Sunderraman is one of the better CS professors at GSU. He really knows his material and explains things clearly on the board. This class is a significant jump from 1301 — you need to be solid on recursion before you take it. The first exam covers linked lists, stacks, and queues. Second exam covers trees and sorting algorithms. Final is cumulative. He gives partial credit on written questions which saves a lot of people.
+
+Review 2:
+Expect to spend 6-8 hours per week outside of class on homework. The programming assignments are in Java and he is strict about following his coding style guide — points are taken off for things like missing comments or bad variable names. Start the assignments early because they seem simple but always have edge cases that take time to find. His office hours fill up fast before exams, so go early in the week.
+
+Review 3:
+Grading: Homework 25%, Midterm 1 25%, Midterm 2 25%, Final 25%. No curve usually but he sometimes adds a few points to the class average if it's below 70. The final project is implementing a priority queue from scratch — it's not optional and due the last week of classes. He doesn't accept late work at all for the final project.
+
+Review 4:
+One thing nobody warns you about: the homeworks are paper submissions, not online. You hand in printed code plus hand-written analysis of time complexity. He grades them within a week. Bring a stapler because he won't accept unstapled assignments.
+
+---
+
+Professor: Dr. Anita Raja
+Course: CS 2340 — Data Structures
+Rating: 3.8 / 5
+
+Review 1:
+Dr. Raja is fair and her class follows the textbook closely — Goodrich's Data Structures and Algorithms in Java. If you read the chapters before lecture her class is very manageable. She posts practice exams on iCollege one week before each midterm. The practice exams are very representative of the real thing. I got a B+ by just doing the practice exams and reviewing lecture slides.
+
+Review 2:
+She uses a lot of in-class exercises in small groups. Attendance counts — she takes roll randomly about once a week. The group project is worth 20% and involves building a small application using at least three data structures you covered in class. Teams of 3. She assigns teams herself — you don't get to choose your group.
+
+Review 3:
+Her grading: Attendance/Participation 10%, Assignments 20%, Group Project 20%, Midterm 25%, Final 25%. The midterm felt harder than the practice but the average was around 72 and she bumped everyone up 5 points. The final was more fair.

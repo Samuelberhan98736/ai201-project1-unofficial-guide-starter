@@ -1,0 +1,50 @@
+Source: GSU unofficial freshman survival guide — compiled from orientation Discord and class Facebook groups
+Collected from: Multiple GSU student community posts
+
+---
+
+ACADEMIC SURVIVAL
+
+iCollege is GSU's learning management system. All your syllabi, assignments, and grades live here. Download the app. Set up email notifications for announcements — some professors post assignment changes on iCollege without emailing you separately.
+
+PAWS is the student portal for registration, financial aid, and transcripts. Registration opens at different times for different class standings — seniors register first. Know your registration window and have backup courses picked in case your first choices fill up. Popular CS courses (anything 3000-level or above) fill within the first few hours of registration opening.
+
+The Writing Studio (library, 2nd floor) does free tutoring for papers. Most CS students don't know about this but if you have a technical writing assignment or need help with your CS capstone report, they will help you even with STEM writing.
+
+The Math Tutoring Center (Classroom South, 3rd floor) is free and open to all students. If you're in Calculus or Discrete Math, use this resource. CS 3300 (Discrete Math) trips up a lot of CS majors — get help early, don't wait until midterms.
+
+The Honors College at GSU is underrated. If your GPA qualifies, join. Honors sections of core courses tend to be smaller and better taught. The Honors dorm (Piedmont Central) is quieter than University Commons.
+
+---
+
+PRACTICAL CAMPUS TIPS
+
+Parking: GSU is primarily a commuter school for upperclassmen. The parking decks (GLOW deck and the deck off Courtland) fill by 9am. If you commute, either get here before 9 or use MARTA. The Campus Connection bus is free with your student ID and runs between campus and the MARTA stations.
+
+MARTA: The Garnett station (right off campus) and the Five Points station (5 min walk) are your main hubs. MARTA is genuinely the best way to move around Atlanta without a car. GSU student IDs get discounted MARTA passes — check the Transportation Office for details.
+
+Weather: Atlanta is HOT until mid-October and randomly cold in February. The tunnels connecting some buildings downtown are not connected to all CS buildings, so you will be outside walking in August heat. Bring water. The campus is spread across multiple blocks of downtown — plan 10-15 minutes between classes in different buildings.
+
+Student ID (PantherCard): Load dining dollars here, use it as your dorm key, get student discounts at campus events. The PantherCard office is in the Student Center. Replace it immediately if lost — your dorm access is tied to it.
+
+---
+
+CAMPUS RESOURCES YOU MIGHT NOT KNOW ABOUT
+
+The Student Health Clinic (One Park Place building): Free basic health services for enrolled students. No copay. Includes mental health counseling (limited sessions). Book in advance — walk-ins often have 2+ hour waits.
+
+Counseling and Testing Center: Free therapy sessions (typically up to 8 sessions per year). Long wait times to get an initial appointment (sometimes 3-4 weeks). Use this if you need it. GSU has one of the more accessible free counseling setups for a public university.
+
+Technology Fee Equipment: GSU charges a technology fee each semester. In exchange, you can borrow cameras, microphones, calculators, and other equipment from the library. Most students don't know this. You can also get free access to software like Adobe Creative Suite through the student software portal.
+
+Career Services: Located in the Student Center Annex, second floor. They do free resume reviews, mock interviews, and connect students with internship postings not on LinkedIn. Underutilized. Go before junior year, not during.
+
+---
+
+REGISTRATION TIPS FOR CS MAJORS
+
+The CS department has prerequisite chains that are easy to mess up. CS 1301 → CS 1302 → CS 2340 → CS 3410 is the core path. Taking these out of order or skipping ahead without the prereq waived will get you withdrawn from the course. Ask your advisor before attempting to bypass any prereq.
+
+"Permission of instructor" courses (some 4000-level seminars and research courses) require you to email the professor directly and get a permission code. The registrar cannot give you this — only the professor. Email the professor 2-3 weeks before registration opens, not the day before.
+
+Course waitlists at GSU are first-come, first-served. Get on them early. Waitlists typically process for 2 weeks after the semester starts. If you're on a waitlist, show up to the first class anyway — professors often let waitlisted students in if there are seats and they've been attending.

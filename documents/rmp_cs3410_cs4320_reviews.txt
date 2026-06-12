@@ -1,0 +1,59 @@
+Source: Rate My Professors — CS 3410 (Operating Systems) and CS 4320 (Algorithms) at Georgia State University
+Collected from: ratemyprofessors.com
+
+---
+
+Professor: Dr. Sushil Prasad
+Course: CS 3410 — Operating Systems
+Rating: 4.0 / 5
+
+Review 1:
+I came in terrified of C and left actually respecting it. Dr. Prasad does not baby you — he expects you to read the documentation, look things up, and debug your own code. But he is available and helpful when you go to him with a specific question. Don't go saying "I don't understand the project." Go with "I traced the execution to line 47 in my fork() implementation and the child process is getting a negative PID, here's my code." He responds well to students who show effort.
+
+Review 2:
+This class genuinely changed how I think about computers. Grading: Projects 50%, Midterm 20%, Final 30%. The projects are hard but educational. Project 1 is a Unix shell — you implement pipes, redirects, and background processes. Project 2 is a user-level thread library using setjmp/longjmp (brutal). Project 3 is memory allocation. Each project builds on the next. Start them the day they're assigned.
+
+Review 3:
+His office hours are the most useful on campus for this course. He will literally sit with you and trace through memory errors in gdb. Go to office hours. Go to office hours. Go to office hours. I cannot say this enough. Three visits to his office hours saved my grade.
+
+Review 4:
+Exam format: Multiple choice + short answer + one multi-part essay question (usually on virtual memory or process scheduling). You need to draw memory maps and describe system call sequences. His practice exams on iCollege are close to the real thing. The final is cumulative.
+
+---
+
+Professor: Dr. Cai (visiting)
+Course: CS 3410 — Operating Systems
+Rating: 2.8 / 5
+
+Review 1:
+The content is the same but the teaching is not as clear. His slides are very text-heavy and he reads from them. The projects are the same projects Dr. Prasad uses so they're hard regardless of professor. The problem is that when I went to office hours, he often seemed unsure of the best approach himself. I relied heavily on the class Discord and upper-level students for help instead.
+
+---
+
+Professor: Dr. Srinivas Aluru
+Course: CS 4320 — Algorithms
+Rating: 4.3 / 5
+
+Review 1:
+Hardest class I took at GSU but also the one I learned most from. Dr. Aluru is a researcher and it shows — he connects every algorithm to real-world problems and research papers. His lectures are fast. If you miss something, you miss something — the slides don't fully capture what he says in lecture. Record the lectures if he allows it (he does). The homework involves writing out proofs. You will get points taken off for hand-wavy reasoning — learn to write mathematical proofs before this class.
+
+Review 2:
+Grading: Homework 30%, Midterm 35%, Final 35%. He does not curve the class average — he adjusts the grade scale. If the class average on the midterm is 60, a 60 might become a C+ not an F. Still, aim to score above the average. The homework is designed to make you think, not Google. Work through it yourself first before looking anything up.
+
+Review 3:
+Topics covered: Divide and conquer, dynamic programming (the hardest part for most people), greedy algorithms, graph algorithms (DFS/BFS/Dijkstra/Bellman-Ford), network flow, and NP-completeness. The NP-completeness unit at the end is conceptually the hardest. Start studying for the final as soon as the DP unit ends.
+
+Review 4:
+One piece of advice: form a study group in the first week of class. This course is not one you can grind alone. Working through DP problems with two other people who explain their reasoning out loud teaches you more than reading the textbook alone. The class Discord (unofficial) is also active — check it.
+
+---
+
+Professor: Dr. Robert Harrison
+Course: CS 4320 — Algorithms
+Rating: 3.7 / 5
+
+Review 1:
+Dr. Harrison is fair and organized. His exams closely follow the homework style so if you do the homework carefully, the exams are manageable. He allows a handwritten cheat sheet for exams — one side of an 8.5x11 page. Use this strategically: don't write definitions, write algorithm templates and worked examples of DP recurrences.
+
+Review 2:
+His office hours are consistently attended — go at the start of the week rather than right before the exam. He'll give hints during early-week office hours that he won't give the day before the exam. This is an open secret in the class.

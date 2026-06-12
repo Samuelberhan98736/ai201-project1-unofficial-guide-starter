@@ -1,0 +1,59 @@
+Source: Reddit — r/GeorgiaStateUniversity and r/cscareerquestions (GSU-specific posts)
+Collected from: reddit.com
+
+---
+
+Thread title: "Got my first SWE internship from GSU — here's exactly what I did"
+Posted by: u/gsu_swe_intern_2024
+
+Background: Rising junior, 3.4 GPA, no prior internship experience when I started applying.
+
+Timeline of what I did:
+- September: Updated resume at Career Services, got it reviewed twice. Key feedback was to quantify accomplishments (not "built a web app" but "built a React web app with 200+ daily users")
+- October: Attended GSU CS Career Fair. Talked to 15+ companies. Got 3 screening calls.
+- November: Did 2 phone screens, 1 led to a technical interview
+- December: Completed technical interview (2 LeetCode medium problems + system design question about a URL shortener)
+- January: Received offer for summer internship at Atlanta-area fintech company, $30/hr
+
+What helped most:
+1. My GitHub had 4 complete projects including a React/Node full-stack app and a Python data analysis project with visualizations. The interviewer mentioned my GitHub specifically.
+2. I'd solved about 60 LeetCode mediums and 20 hards before the interview. The actual problems were easier than I expected.
+3. The Career Services mock interview was genuinely useful — they told me I was too quiet and not explaining my thinking clearly enough.
+
+What I wish I'd done earlier:
+- Applied to more companies in September/October rather than waiting until the career fair
+- Built projects during freshman/sophomore year instead of cramming in junior year
+
+---
+
+Thread title: "Realistic salary expectations for GSU CS grads in Atlanta"
+Posted by: u/gsu_grad_offer_thread
+
+Compiling data from the thread (all 2023-2024 timeframe, full-time entry level):
+
+- Atlanta-area mid-size tech/fintech: $80,000–$95,000 base. Common employers: NCR Voyix, InComm, Global Payments, SecureWorks, Kabbage.
+- Large Atlanta corporations (non-tech primary): $70,000–$85,000. Common employers: Delta Air Lines, Chick-fil-A corporate, Cox Enterprises.
+- Consulting (Accenture, Deloitte tech practices, Capgemini): $72,000–$88,000 plus potential relocation/signing bonus.
+- Remote-first mid-size SaaS companies: $90,000–$110,000. These are competitive to land from GSU but some students get them.
+- FAANG or near-FAANG (uncommon from GSU without referral): $130,000–$160,000 total comp when it happens.
+
+Reality check from multiple commenters: GSU is not a pipeline school to FAANG. Most GSU CS grads go to Atlanta-area companies or mid-size tech. That is not a bad outcome — Atlanta is a growing tech hub and cost of living is significantly lower than SF or NYC.
+
+---
+
+Thread title: "Which clubs and orgs actually help with CS recruiting?"
+Posted by: u/club_comparison
+
+My experience and what I've heard from others:
+
+1. ACM Chapter at GSU: Runs interview prep workshops, hosts technical speakers, organizes group LeetCode sessions. Best CS org for career development. Meetings are weekly.
+
+2. Google Developer Student Club (GDSC): Google-supported, runs workshops on Google tools and cloud tech. Good for networking but less directly focused on recruiting than ACM.
+
+3. Women in Technology (WIT): GSU chapter is active and has mentorship connections to Atlanta companies. Scholarship opportunities available.
+
+4. National Society of Black Engineers (NSBE): Strong alumni network, connects to NSBE National Conference which has a massive career fair where GSU students have gotten internships.
+
+5. Society of Hispanic Professional Engineers (SHPE): Similar to NSBE — conference-based recruiting is the main benefit.
+
+General rule: Clubs help most if you're active and show up consistently, not if you just put them on your resume. Interviewers can tell the difference.

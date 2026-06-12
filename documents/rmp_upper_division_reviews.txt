@@ -1,0 +1,53 @@
+Source: Rate My Professors — Upper-Division CS Courses at Georgia State University
+Collected from: ratemyprofessors.com
+
+---
+
+Professor: Dr. Xiaolin Hu
+Course: CS 4720 — Machine Learning
+Rating: 4.5 / 5
+
+Review 1:
+Best CS class I've taken at GSU. Dr. Hu is brilliant and genuinely excited about the material. Lectures go deep — this is not a surface-level ML overview. You need linear algebra and some statistics before taking this. He assigns research papers to read before class and cold-calls students to discuss them. Don't skip the readings. The final project is 30% of your grade and involves training a model on a dataset of your choice. Start it early — tuning models takes time.
+
+Review 2:
+The curve is generous. Midterm average was around 65 but after the curve most people passed. He really wants you to understand gradient descent conceptually, not just plug into sklearn. The coding assignments use Python + numpy mostly from scratch — he won't let you use high-level ML libraries until the last third of the class. This teaches you a lot.
+
+Review 3:
+Grading: Programming Assignments 25%, Paper Presentations 10%, Midterm 30%, Final Project 35%. He expects you to be able to derive backpropagation on an exam. I'd recommend taking Linear Algebra and Probability before this class.
+
+---
+
+Professor: Dr. Zhipeng Cai
+Course: CS 4720 — Machine Learning
+Rating: 3.6 / 5
+
+Review 1:
+Dr. Cai is a good researcher but teaching is not his strongest skill. His slides are dense and he reads from them a lot. That said, the material itself is interesting and the TAs for this class are actually really good — they run weekly help sessions on Thursdays at 6pm in the CS building. I learned more from the TA sessions than from lectures.
+
+Review 2:
+He uses Kaggle competitions as one of the assignments which is fun. The midterm has a math-heavy written section and a coding section on the lab computers. Bring a cheat sheet (one page allowed). His office hours are underattended — great resource if you use them.
+
+---
+
+Professor: Dr. Yingshu Li
+Course: CS 4510 — Computer Networks
+Rating: 4.1 / 5
+
+Review 1:
+Dr. Li is organized and clear. The class covers TCP/IP, routing algorithms, DNS, HTTP, and a bit of network security. Exams are half conceptual, half problem-solving (you calculate subnet masks, routing tables, etc.). She posts all lecture slides the night before. The big project is implementing a simple chat application using sockets — she gives starter code and a spec, you fill in the logic. It's actually fun if you like systems.
+
+Review 2:
+Her grading breakdown: Homework 20%, Project 25%, Midterm 30%, Final 25%. The homework is short (like 5-10 questions each) but needs to be done carefully because she takes off points for incomplete explanations. The Wireshark labs are optional extra credit.
+
+---
+
+Professor: Dr. Sushil Prasad
+Course: CS 3410 — Operating Systems
+Rating: 3.9 / 5
+
+Review 1:
+OS is notoriously hard and Dr. Prasad's class is no exception. You will write C code. There's no avoiding it. The first project is a shell implementation. The second is a simple thread scheduler. The third is a memory allocator. Each project takes about 15-20 hours. You will spend a lot of time in gdb. That said, this class teaches you more about how computers actually work than any other CS class at GSU. Totally worth it.
+
+Review 2:
+His exams are conceptual — no coding on the exam. He tests you on process states, virtual memory, paging, file systems. He gives practice exams and the real exams are similar in format. Grading: Projects 50%, Midterm 20%, Final 30%. Don't underestimate the time commitment for the projects.

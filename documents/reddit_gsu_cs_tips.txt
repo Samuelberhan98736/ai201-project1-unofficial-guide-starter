@@ -1,0 +1,52 @@
+Source: Reddit — r/GeorgiaStateUniversity, r/cscareerquestions (GSU-specific threads)
+Collected from: reddit.com/r/GeorgiaStateUniversity
+
+---
+
+Thread title: "Tips for CS majors at GSU - what I wish I knew freshman year"
+Posted by: u/PantherCS_Grad
+
+Main post:
+Hey everyone, I just graduated with my CS degree from GSU and wanted to share some things that would have saved me a lot of time. Feel free to add your own.
+
+1. Get to know your academic advisor early. The CS department advising office is in 25 Park Place. Email them at the start of every semester, not just when you're in trouble. They helped me plan out my entire 4-year path in one meeting.
+
+2. The CS Learning Center (CSLC) in Classroom South 101 has free tutoring for all 1000 and 2000 level CS courses. Hours are Monday-Thursday 10am-6pm and Friday 10am-2pm. The tutors are upper-level CS students who have taken all these courses — they're way more relatable than going to a professor's office hours.
+
+3. Don't declare a concentration too early. Wait until you've taken at least CS 2340 and CS 3410 to see which area you enjoy most. The concentrations are: Systems, Intelligent Systems (AI/ML), and Software Systems.
+
+4. Internships: GSU has a co-op program through the Career Services office in the Student Center Annex. Apply to co-op junior year. The stipend is not great but the full-time offer conversion rate for GSU students at co-op companies is surprisingly high.
+
+5. Research opportunities: Several CS professors take undergrad research assistants. Dr. Sunderraman does database research, Dr. Hu does ML/deep learning research. Email professors directly with your transcript and a paragraph about why you're interested in their work. A lot of students don't do this and miss out.
+
+Top reply by u/GSU_SeniorCS:
+Adding to the research point — the CREATE-X startup accelerator at Georgia Tech sometimes accepts GSU students for their programs. Look into it. Also, hackathons: GSU hosts PantherHacks every spring. Great way to meet other CS students and build your portfolio.
+
+Reply by u/transfer_to_gsu:
+For transfer students — if you transferred from a school that used Python heavily and GSU uses Java, budget extra time in CS 2340. The data structures content is the same but debugging Java null pointer exceptions at 2am when you're used to Python error messages is a special kind of pain.
+
+---
+
+Thread title: "Which CS professors to avoid and which are worth it"
+Posted by: u/anonymous_cs_junior
+
+Note: I'm keeping names vague but the patterns are real.
+
+Best experiences I've had: professors who use real-world examples, give partial credit on exams, post practice materials, and respond to emails within 48 hours. The upper-division electives tend to have better professors than the lower-division required courses — professors seem more engaged when they're teaching something they specialize in.
+
+Worst experiences: professors who teach directly from slides they haven't updated in 5 years, don't curve exams where the class average is 55, and have office hours but are never actually available. One prof I had literally cancelled office hours 8 out of 15 weeks.
+
+General advice: Rate My Professors reviews for GSU are more accurate than people think. If a professor has 20+ reviews and consistently gets called "hard but fair" they probably are. If every review mentions the exams being "unfairly hard" there's probably something to that.
+
+---
+
+Thread title: "CS job recruiting from GSU — honest answers"
+Posted by: u/gsu_hired_2024
+
+I got a software engineering offer at a mid-size fintech company in Atlanta after graduating from GSU. My honest take on recruiting from GSU vs. Georgia Tech:
+
+GSU is not a target school for most big tech companies. You will not get on-campus recruiting from Google or Microsoft unless you go out of your way to apply early and network. That said, Atlanta has a huge tech scene and many Atlanta-area companies actively recruit from GSU: NCR, Cox Enterprises, Delta tech, Mailchimp (now Intuit), InComm Payments.
+
+What matters most for getting a job from GSU: internship experience (even one good internship makes a massive difference), a GitHub with projects, and being able to explain your projects clearly in an interview. LeetCode practice helps — aim for 50-75 medium problems before interviews.
+
+The CS Career Fair at GSU every October in the Student Center Ballroom is underrated. Last year there were about 40 companies and only 300-ish CS students showed up. That's a pretty good ratio. Dress well, bring printed resumes, and actually talk to every company even if you don't want to work there — practice helps.

@@ -1,0 +1,35 @@
+Source: Rate My Professors — CS 1301 (Introduction to Computing) at Georgia State University
+Collected from: ratemyprofessors.com
+
+---
+
+Professor: Dr. Ying Zhu
+Course: CS 1301 — Introduction to Computing
+Rating: 4.2 / 5
+
+Review 1:
+Dr. Zhu is very organized and her lectures are well-structured. She posts slides before class which is super helpful. The exams are mostly multiple choice plus a few short coding problems. If you go to office hours she is really patient and will walk you through problems step by step. Homework is due every week and late submissions get a 20% penalty per day. I'd recommend doing the practice problems she posts before each exam — the exam questions are very similar.
+
+Review 2:
+Honestly not a bad intro course. The first half is theory-heavy (binary, logic gates, algorithms) and the second half moves into actual Python. If you already know Python this class will feel slow but it's an easy A. Exams count for 60% of your grade so don't bomb them. She does drop your lowest quiz grade which is nice.
+
+Review 3:
+Took this as a non-CS major needing to fulfill a requirement. Dr. Zhu is very approachable. The lab sessions on Thursday are mandatory and worth 15% of your grade. Labs are mostly guided exercises — you won't fail if you show up and try. Final project is a small Python program of your choosing, just make sure it meets the minimum requirements she lists on iCollege.
+
+Review 4:
+The class is graded on: Quizzes 10%, Homework 15%, Labs 15%, Midterm 25%, Final 35%. The curve on the final was about 7 points last semester. If you are struggling, go to the tutoring center in the library — there are CS tutors available Monday through Thursday.
+
+---
+
+Professor: Dr. Mark Branagan
+Course: CS 1301 — Introduction to Computing
+Rating: 3.5 / 5
+
+Review 1:
+Dr. Branagan is knowledgeable but moves kind of fast. He doesn't really use slides — he codes live on the projector which is cool but hard to follow if you miss something. He does post his code to iCollege after class. The midterm was harder than expected; a lot of people failed it but he curved it significantly. Would recommend his class if you are comfortable with self-studying.
+
+Review 2:
+He gives a lot of group projects which I liked. Participation in class counts toward your grade — he cold-calls students sometimes. Office hours are Tuesdays 2–4pm and he's genuinely helpful there. Attendance is not mandatory but he says things in lecture that show up on exams that aren't in the textbook.
+
+Review 3:
+His grading breakdown: Participation 5%, Projects 30%, Midterm 30%, Final 35%. No quizzes, which is great. The projects are Python-based and build on each other, so don't fall behind early or you'll struggle to catch up later. He uses pair programming for some labs.
